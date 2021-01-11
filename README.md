@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=abhishek7389.github.io&style=for-the-badge&url=https%3A%2F%2Fabhishek7389.github.io)](https://abhishek7389.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Abhishek_7389?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhishek_7389&screen_name=Abhishek_7389)
 
-## I'm an E & TC enginnering student, cloud & open source enthusiast, a learner, and a helping hand for your technical issues, love to interact with peoples and working with community!!
+## I'm an E & TC engineering student, cloud & open source enthusiast, a learner, and a helping hand for your technical issues, love to interact with peoples and working with community!!
 
 - 🔭 I'm a multicloud certified guy
 - 🌱 I’m currently learning more about DevOps tools
