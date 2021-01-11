@@ -1,6 +1,6 @@
 ### Hi, I'm Abhishek 👋 👩🏾‍💻
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fabhishek7389.github.io)](https://abhishek7389.github.io/)
+[![Website](https://img.shields.io/website?label=abhishek7389.github.io&style=for-the-badge&url=https%3A%2F%2Fabhishek7389.github.io)](https://abhishek7389.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Abhishek_7389?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhishek_7389&screen_name=Abhishek_7389)
 
 ## I'm an E & TC enginnering student, cloud & open source enthusiast, a learner, and a helping hand for your technical issues, love to interact with peoples and working with community!!
@@ -42,7 +42,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishek7389&show_icons=true" width="400"></td>
   <td>
- <img src="https://i.gifer.com/761K.mp4" height="200" wifdth="200">
+ <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" height="200" wifdth="350">
  <h3> Find me around the web 🌎:</h3>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Abhishek_7389) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/abhishek-sharma-802a83192/)  [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://abhishek7389.github.io/)  
