@@ -51,6 +51,7 @@
   <tr>
  </table>
 <h2 >It is just the beginning.......</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsingh98571&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 [twitter]: https://twitter.com/Abhishek_7389
 [youtube]: https://youtube.com/channel/UCX25IiuKfhGBIOIy_eAHDNA
