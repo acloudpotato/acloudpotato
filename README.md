@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Abhishek_7389?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhishek_7389&screen_name=Abhishek_7389)
 
-## Currently, I'm pursuing my final year of engineering, also working with Searce Inc(Google Cloud Premier Partner) on various cloud migration projects(AWS, Azure & On-Premises to GCP) and helping clients to optimize and modernize their Cloud infrastructure. Skilled in Google Cloud Platform with Good knowledge of DevOps(different DevOps tools like Kubernetes, Jenkins, Ansible, Terraform etc ) with real-world project experience.
+Currently, I'm pursuing my <b>final year</b> of engineering, also working with Searce Inc(Google Cloud Premier Partner) on various cloud migration projects(AWS, Azure & On-Premises to GCP) and helping clients to optimize and modernize their Cloud infrastructure. Skilled in Google Cloud Platform with Good knowledge of DevOps(different DevOps tools like Kubernetes, Jenkins, Ansible, Terraform etc ) with real-world project experience.
 
 - 🔭 I'm a Cloud Enthusiast 
 - 🌱 Currently exploring more about DevOps tools
