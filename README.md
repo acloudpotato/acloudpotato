@@ -4,8 +4,6 @@
 
 ## Currently, I'm pursuing my final year of engineering, also working with Searce Inc(Google Cloud Premier Partner) on various cloud migration projects(AWS, Azure & On-Premises to GCP) and helping clients to optimize and modernize their Cloud infrastructure. Skilled in Google Cloud Platform with Good knowledge of DevOps(different DevOps tools like Kubernetes, Jenkins, Ansible, Terraform etc ) with real-world project experience.
 
-## I believe in continuous learning & eager to experiment with new technologies. Currently interested in Multi-cloud, IoT & Machine Learning.
-
 - 🔭 I'm a Cloud Enthusiast 
 - 🌱 Currently exploring more about DevOps tools
 - 👯 Interested in collaboration with other cloud enthusiasts to learn & grow together
