@@ -1,11 +1,10 @@
 ### Hi, I'm Abhishek 👋 👩🏾‍💻
 
-[![Website](https://img.shields.io/website?label=Abhishek Sharma&style=for-the-badge&url=https%3A%2F%2Fabhishek7389.github.io)](https://www.linkedin.com/in/abhisheksharma7389/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Abhishek_7389?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhishek_7389&screen_name=Abhishek_7389)
 
 ## Currently, I'm pursuing my final year of engineering, also working with Searce Inc(Google Cloud Premier Partner) on various cloud migration projects(AWS, Azure & On-Premises to GCP) and helping clients to optimize and modernize their Cloud infrastructure. Skilled in Google Cloud Platform with Good knowledge of DevOps(different DevOps tools like Kubernetes, Jenkins, Ansible, Terraform etc ) with real-world project experience.
 
-I believe in continuous learning & eager to experiment with new technologies. Currently interested in Multi-cloud, IoT & Machine Learning.
+## I believe in continuous learning & eager to experiment with new technologies. Currently interested in Multi-cloud, IoT & Machine Learning.
 
 - 🔭 I'm a Cloud Enthusiast 
 - 🌱 Currently exploring more about DevOps tools
