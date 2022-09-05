@@ -2,7 +2,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Abhishek_7389?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhishek_7389&screen_name=Abhishek_7389)
 
-Currently, I'm pursuing my <b>final year</b> of engineering, also working with <b>Searce Inc(Google Cloud Premier Partner)</b> as <b>Cloud Engineering Analyst</b> on various <b>cloud migration projects(AWS, Azure & On-Premises to GCP)</b> and helping clients to optimize and modernize their Cloud infrastructure. Skilled in <b>Google Cloud Platform with Good knowledge of DevOps(different DevOps tools like Kubernetes, Jenkins, Ansible, Terraform etc )</b> with real-world project experience.
+A Cloud & DevOps Engineer, Cloud Mentor, Public Speaker & Content Creator( Blog & Training Videos)
+
+I like to solve real-world use cases & have more than 1.5 years of experience in helping clients, to optimize and modernize their Cloud infrastructure in hybrid & multi-cloud environments with GCP. Skilled in Google Cloud with good knowledge of different DevOps tools like Kubernetes, Jenkins, Ansible, Terraform, etc., with real-world project experience.
+
+Also, I would like to share my learnings & enjoy mentoring folks in the field of cloud. Passionate and keen to learn about new technologies. Enjoying my work by combining my passion and my work together, currently exploring Multi-cloud, IoT & Machine Learning domains.
+
+Medium Profile - https://medium.com/@abhisheksharma7389
+Youtube Channel - https://www.youtube.com/channel/UCLSi5jfe-FxK3X4dVWrcK6w/videos
+Github - https://github.com/abhishek7389.
 
 - 🔭 I'm a Cloud Enthusiast 
 - 🌱 Currently exploring more about DevOps tools
