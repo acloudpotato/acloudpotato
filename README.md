@@ -4,7 +4,7 @@
 
 A Cloud & DevOps Engineer, Cloud Mentor, Public Speaker & Content Creator( Blog & Training Videos)
 
-I like to solve real-world use cases & have more than 2 years of experience in helping clients, to optimize and modernize their Cloud infrastructure in hybrid & multi-cloud environments with GCP. Skilled in Google Cloud with good knowledge of different DevOps tools like Kubernetes, Jenkins, Ansible, Terraform, etc., with real-world project experience.
+I like to solve real-world use cases & have more than 2 years of experience in helping clients, to optimize and modernize their Cloud infrastructure in hybrid & multi-cloud environments with GCP. Skilled in Google Cloud with good knowledge of different DevOps tools like Kubernetes, Jenkins, Terraform, etc., with real-world project experience.
 
 Also, I would like to share my learnings & enjoy mentoring folks in the field of cloud. Passionate and keen to learn about new technologies. Enjoying my work by combining my passion and my work together, currently exploring Multi-cloud, IoT & Machine Learning domains.
 
