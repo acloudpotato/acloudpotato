@@ -15,7 +15,7 @@ Github - https://github.com/abhishek7389.
 - 🔭 I'm a Cloud Enthusiast 
 - 🌱 Currently exploring more about DevOps tools
 - 👯 Interested in collaboration with other cloud enthusiasts to learn & grow together
-- 🥅 2022 Goals: Skill up in existing skills & learn more cloud related tools and service, Contribute more to cloud community by sharing Write blogs regularly.
+- 🥅 2023 Goals: Skill up in existing skills & learn more cloud related tools and service, Contribute more to cloud community by sharing Write blogs regularly.
 - ⚡ Hobbies: Trekking, listening songs & playing cricket
 
 <br />
