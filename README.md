@@ -1,22 +1,14 @@
 ### Hi, I'm Abhishek 👋 👩🏾‍💻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Abhishek_7389?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhishek_7389&screen_name=Abhishek_7389)
+[![Twitter Follow](https://img.shields.io/twitter/follow/acloudpotato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facloudpotato&screen_name=acloudpotato)
 
-A Cloud & DevOps Engineer, Cloud Mentor, Public Speaker & Content Creator( Blog & Training Videos)
+Abhishek is a Google Developer Expert for GCP, A Google Cloud Champion Innovator for Hybrid/Multi-Cloud and A Senior Cloud/DevOps Engineer with a proven track record of driving digital transformation. Leveraging his expertise in Google Cloud technologies and DevOps tools like Docker, Kubernetes, Jenkins, GitLab CI, etc.
 
-I like to solve real-world use cases & have more than 2 years of experience in helping clients, to optimize and modernize their Cloud infrastructure in hybrid & multi-cloud environments with GCP. Skilled in Google Cloud with good knowledge of different DevOps tools like Kubernetes, Jenkins, Terraform, etc., with real-world project experience.
+Abhishek has consistently delivered scalable and efficient solutions for enterprises. As a recognized thought leader in the community, he is passionate about sharing his knowledge and empowering others to harness the power of cloud technology.
 
-Also, I would like to share my learnings & enjoy mentoring folks in the field of cloud. Passionate and keen to learn about new technologies. Enjoying my work by combining my passion and my work together, currently exploring Multi-cloud, IoT & Machine Learning domains.
-
-Medium Profile - https://medium.com/@abhisheksharma7389
-Youtube Channel - https://www.youtube.com/channel/UCLSi5jfe-FxK3X4dVWrcK6w/videos
-Github - https://github.com/abhishek7389.
-
-- 🔭 I'm a Cloud Enthusiast 
-- 🌱 Currently exploring more about DevOps tools
-- 👯 Interested in collaboration with other cloud enthusiasts to learn & grow together
-- 🥅 2023 Goals: Skill up in existing skills & learn more cloud related tools and service, Contribute more to cloud community by sharing Write blogs regularly.
-- ⚡ Hobbies: Trekking, listening songs & playing cricket
+Medium Profile - https://medium.com/@acloudpotato
+Youtube Channel - https://www.youtube.com/@guysinthecloud
+Github - https://github.com/acloudpotato
 
 <br />
 <table scrolling=no>
@@ -39,12 +31,12 @@ Github - https://github.com/abhishek7389.
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" height="200" width="350">
  <h3> Find me around the web 🌎:</h3>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Abhishek_7389) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/abhishek-sharma-802a83192/)  [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://abhisheksharma7389.medium.com/)  
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/acloudpotato) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/acloudpotato/)  [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://acloudpotato.medium.com/)  
 
 </td>
   <tr>
  </table>
-<h2 >It is just the beginning.......</h2>
+<h2 >Learn & grow everyday.....</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek7389&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=acloudpotato&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </div>
